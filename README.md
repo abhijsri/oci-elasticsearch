@@ -2,6 +2,10 @@
 
 Quick Start a Highly Available Elasticsearch Cluster on OCI. 
 
+# Article Link
+
+https://blogs.oracle.com/cloud-infrastructure/deploying-elasticsearch-on-oracle-cloud-infrastructure-using-a-terraform-template
+
 # Prerequisites
 First off you'll need to do some pre deploy setup.  That's all detailed [here](https://github.com/cloud-partners/oci-prerequisites).
 
